@@ -1,0 +1,6 @@
+{
+  "name": "Clash Layout AI",
+  "description": "Clash of Clans layout analyzer and link generator supporting Town Hall 1 to 18 with AI vision detection",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
